@@ -8,6 +8,6 @@
 </head>
 <body>
     <h2>Ini adalah halaman index blog</h2>
-    <p>Ini adalah blog pertama saya<?php echo $nama ?></p>
+    <p>Ini adalah blog pertama saya Menggunakan<?php echo $nama ?></p>
 </body>
 </html>
